@@ -1,0 +1,49 @@
+Container Tag - ეს არის თეგი რომელსაც აქვს გამხსნელიც და დამხურავიც
+empty tag - ეს არის თეგი რომელსაც არ სჭირდება დამხურავი თეგი
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+
+    <!-- 1. ორი პარაგრაფი -->
+    <p>ეს არის ჩემი პირველი პარაგრაფი. აქ დავწერ სხვა ტექსტს.</p>
+    <p>ეს მეორე პარაგრაფია, სადაც უფრო მეტი ტექსტი იქნება, რათა ვაჩვენოთ ორი პარაგრაფის მაგალითი.</p>
+
+    <!-- 2. ორი ფოტო -->
+    <img src="https://www.example.com/image1.jpg" alt="First Image">
+    <img src="image2.jpg" alt="Second Image">
+
+    <!-- 3. ორი სია -->
+    <ul>
+        <li>პუნქტი პირველი</li>
+        <li>პუნქტი მეორე</li>
+    </ul>
+
+    <ol>
+        <li>ნუმერირებული პუნქტი პირველი</li>
+        <li>ნუმერირებული პუნქტი მეორე</li>
+    </ol>
+
+</body>
+</html>
